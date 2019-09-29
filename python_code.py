@@ -10,7 +10,7 @@
 
    "source": [
 
-    "Hello!"
+    "Hello this notebook will be mainly used for the capstone project"
 
    ]
 
@@ -18,13 +18,19 @@
 
   {
 
-   "cell_type": "markdown",
+   "cell_type": "code",
+
+   "execution_count": 1,
 
    "metadata": {},
 
+   "outputs": [],
+
    "source": [
 
-    "This notebook will be mainly used for the capstone project"
+    "import pandas as pd\n",
+
+    "import numpy as np"
 
    ]
 
@@ -38,13 +44,27 @@
 
    "metadata": {},
 
-   "outputs": [],
+   "outputs": [
+
+    {
+
+     "name": "stdout",
+
+     "output_type": "stream",
+
+     "text": [
+
+      "Hello Capstone Project Course!\n"
+
+     ]
+
+    }
+
+   ],
 
    "source": [
 
-    "import numpy as np \n",
-
-    "import pandas as pd"
+    "print('Hello Capstone Project Course!')"
 
    ]
 
@@ -52,15 +72,15 @@
 
   {
 
-   "cell_type": "markdown",
+   "cell_type": "code",
+
+   "execution_count": null,
 
    "metadata": {},
 
-   "source": [
+   "outputs": [],
 
-    "Hello Capstone Project Course!"
-
-   ]
+   "source": []
 
   }
 
@@ -70,27 +90,35 @@
 
   "kernelspec": {
 
-   "display_name": "R",
+   "display_name": "Python 3",
 
-   "language": "R",
+   "language": "python",
 
-   "name": "conda-env-r-r"
+   "name": "python3"
 
   },
 
   "language_info": {
 
-   "codemirror_mode": "r",
+   "codemirror_mode": {
 
-   "file_extension": ".r",
+    "name": "ipython",
 
-   "mimetype": "text/x-r-source",
+    "version": 3
 
-   "name": "R",
+   },
 
-   "pygments_lexer": "r",
+   "file_extension": ".py",
 
-   "version": "3.5.1"
+   "mimetype": "text/x-python",
+
+   "name": "python",
+
+   "nbconvert_exporter": "python",
+
+   "pygments_lexer": "ipython3",
+
+   "version": "3.7.3"
 
   }
 
@@ -98,6 +126,6 @@
 
  "nbformat": 4,
 
- "nbformat_minor": 4
+ "nbformat_minor": 2
 
 }
