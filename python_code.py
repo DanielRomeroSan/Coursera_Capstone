@@ -1,8 +1,9 @@
-print(My capstone Project)
+#My capstone Project
 
-print(This project use GitHub)
+> This project use GitHub week1
+    
+'<import pandas as pd>'
 
-import pandas as pd
-import numpy as np
+'<import numpy as np>'
 
-print(Hello Capstone Project Course!)
+>print(Hello Capstone Project Course!)
